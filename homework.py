@@ -15,7 +15,7 @@ class InfoMessage:
         self.distance = distance
         self.speed = speed
         self.calories = calories
-    
+
     MESS_TRAINING = ("Тип тренировки: {training_type}; "
                      "Длительность: {duration:.3f} ч.; "
                      "Дистанция: {distance:.3f} км; "
