@@ -1,5 +1,6 @@
 from typing import List, Union, Dict, Type
 
+
 class InfoMessage:
     """Информационное сообщение о тренировке."""
 
